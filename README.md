@@ -1,1 +1,3 @@
 # Briston-Final-project-Machine-Learning-Class-CNN
+
+This paper investigates the performance of various convolutional neural network (CNN) architectures, including LeNet, AlexNet, VGGNet, and MobileNets, in computing vision tasks. I aim to improve upon the results from a previous project (Learning Notebook Practice 7) using VGGNet, a deeper CNN architecture. The study used the Caltech dataset to compare the VGGNet model's accuracy with the last Project's model. Results show that VGGNet's architecture offers better performance and has the potential for further application in computer vision. I will go through the process of the project code and the results. I will also talk about running this Project on my computer and the hardware I used. 
